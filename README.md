@@ -1,0 +1,2 @@
+# Data-mining-the-water-table
+We have taken the data from Driven Data ‘Pump it up: Data Mining the Water Table’ challenge where we have to predict status_group which is functional, non-functional and functional needs repair. The dataset has features such as the location of the pump, water quality, source type, extraction technique used, and population demographics of pump location. The training set has 59,401 rows and 40 features including an output column.  Out of the 40 features in the data, we have 31 categorical variables, 7 numerical variables, and 2 date variables.  
